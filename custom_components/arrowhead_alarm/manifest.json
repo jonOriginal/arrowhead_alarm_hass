@@ -1,10 +1,9 @@
 {
   "domain": "arrowhead_alarm",
   "name": "Arrowhead Alarm Panel",
-  "version": "1.0.0",
-  "documentation": "https://github.com/thanoskas/arrowhead_alarm",
+  "documentation": "https://github.com/jonOriginal/arrowhead_alarm",
   "dependencies": [],
-  "codeowners": ["@thanoskas"],
+  "codeowners": ["@thanoskas", "@jonOriginal"],
   "requirements": [],
   "iot_class": "local_push",
   "config_flow": true,
