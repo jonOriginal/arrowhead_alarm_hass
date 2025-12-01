@@ -1,12 +1,12 @@
 {
-  "domain": "arrowhead_alarm",
-  "name": "Arrowhead Alarm Panel",
+  "domain": "arrowhead_eci_alarm",
+  "name": "Arrowhead ECi Alarm Panel",
   "documentation": "https://github.com/jonOriginal/arrowhead_alarm",
   "dependencies": [],
-  "codeowners": ["@thanoskas", "@jonOriginal"],
+  "codeowners": ["@jonOriginal"],
   "requirements": [],
   "version": "2.2.0",
   "iot_class": "local_push",
   "config_flow": true,
-  "integration_type": "device"
+  "integration_type": "hub"
 }

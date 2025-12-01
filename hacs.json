@@ -1,5 +1,5 @@
 {
-  "name": "Arrowhead Alarm Panel",
+  "name": "Arrowhead ECi Alarm Panel",
   "content_in_root": false,
   "render_readme": true,
   "homeassistant": "2025.11.3"
