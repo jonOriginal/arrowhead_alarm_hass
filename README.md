@@ -1,6 +1,6 @@
 # Arrowhead ECi alarm Homeassistant Integration
 
-![arrowhead_alarms.png](https://github.com/jonOriginal/arrowhead_alarm/raw/main/docs/images/arrowhead_alarms.png)
+![arrowhead_alarms.png](https://raw.githubusercontent.com/jonOriginal/arrowhead_alarm_hass/refs/heads/main/docs/images/arrowhead_alarms.png)
 
 Custom integration for Home Assistant to interface with Arrowhead ECi alarm systems
 
